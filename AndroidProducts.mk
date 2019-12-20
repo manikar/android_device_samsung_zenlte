@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_zenlte.mk
+    $(LOCAL_DIR)/havoc_zenlte.mk

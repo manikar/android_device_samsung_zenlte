@@ -1,1 +1,1 @@
-add_lunch_combo lineage_zenlte-userdebug
+add_lunch_combo havoc_zenlte-userdebug
