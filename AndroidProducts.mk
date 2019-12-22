@@ -1,2 +1,2 @@
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/rr_zenlte.mk
+    $(LOCAL_DIR)/renouveau_zenlte.mk

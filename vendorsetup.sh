@@ -1,1 +1,1 @@
-add_lunch_combo rr_zenlte-userdebug
+add_lunch_combo renouveau_zenlte-userdebug
